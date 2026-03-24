@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm an MSc AI & ML Student 🤖🎓<br><br>🧠 Curious about Language Processing, GenAI, and how AI can be used for real-world impact<br><br>🌍 Passionate about building socially relevant and responsible AI solutions<br><br>⚖️ Deeply interested in the ethical use of AI and its impact on people and society<br><br>🌱 I believe in learning by doing, failing, and improving<br><br>💬 Currently exploring Chatbots + RAG to build smarter and more useful GenAI systems
+👋 Hi there! I'm an MSc AI & ML Student 🤖🎓<br><br>🧠 I'm curious about Language Processing, GenAI, and how AI can be used for positive social impact<br><br>⚖️ I'm interested in the ethical use of AI and its impact on people and society<br><br>🌱 I believe in learning by doing, failing, and improving<br><br>💬 Currently exploring multi-modal systems + RAG to build smarter and more useful GenAI systems
 
 
 ## 🌐 Socials:
